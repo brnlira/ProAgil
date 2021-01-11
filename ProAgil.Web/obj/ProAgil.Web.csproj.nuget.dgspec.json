@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.WEB\\ProAgil.Web.csproj": {}
+    "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.Web\\ProAgil.Web.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.WEB\\ProAgil.Web.csproj": {
+    "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.Web\\ProAgil.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.WEB\\ProAgil.Web.csproj",
+        "projectUniqueName": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.Web\\ProAgil.Web.csproj",
         "projectName": "ProAgil.Web",
-        "projectPath": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.WEB\\ProAgil.Web.csproj",
+        "projectPath": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.Web\\ProAgil.Web.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.WEB\\obj\\",
+        "outputPath": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

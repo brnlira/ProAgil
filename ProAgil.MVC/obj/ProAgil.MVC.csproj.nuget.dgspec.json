@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj": {}
+    "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj": {}
   },
   "projects": {
-    "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj": {
+    "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj",
+        "projectUniqueName": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj",
         "projectName": "ProAgil.MVC",
-        "projectPath": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj",
+        "projectPath": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\ProAgil.MVC.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\obj\\",
+        "outputPath": "c:\\temp\\ws-dotnet\\DOTNETCORE\\ProAgil.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
